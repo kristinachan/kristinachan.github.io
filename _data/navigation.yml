@@ -1,14 +1,14 @@
 main:
   - title: "Science & Engineering"
     url: /science_engineering/
-  - title: "Art & Music"
-    url: /art_music/
-  - title: "Rock Climbing"
-    url: https://www.instagram.com/kristinaclimbs
-  - title: "Blog Posts"
-    url: /blog_posts/
   - title: "Projects"
     url: /projects/
+  - title: "Blog Posts"
+    url: /blog_posts/
+  - title: "Art & Music"
+    url: https://www.instagram.com/theartofkristina/
+  - title: "Rock Climbing"
+    url: https://www.instagram.com/kristinaclimbs
 
 
 #  - title: "Quick-Start Guide"
