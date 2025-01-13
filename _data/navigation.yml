@@ -1,22 +1,36 @@
 main:
-  - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Science & Engineering"
+    url: /science_engineering/
+  - title: "Art & Music"
+    url: /art_music/
+  - title: "Rock Climbing"
+    url: https://www.instagram.com/kristinaclimbs
+  - title: "Blog Posts"
+    url: /blog_posts/
+  - title: "Projects"
+    url: /projects/
+
+
+#  - title: "Quick-Start Guide"
+#    url: /docs/quick-start-guide/
+#  - title: "Posts"
+#    url: /year-archive/
+#  - title: "Categories"
+#    url: /categories/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
+#  - title: "External Link"
+#    url: https://google.com
+
+
     target: _blank
 
 
-# above added from https://mmistakes.github.io/minimal-mistakes/docs/navigation/ 
+# above template added from https://mmistakes.github.io/minimal-mistakes/docs/navigation/ 
 
 # main links
 # main:
