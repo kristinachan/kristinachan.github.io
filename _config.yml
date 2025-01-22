@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Kristina Chan" # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Engineer. Lover of creative problem solving & scientific analysis. Admirer of artistic beauty & felicitous design. # , & climb-able rocks."  # "I am an **amazing** person."
+  bio              : "Engineer. Lover of creative problem solving & scientific analysis. Admirer of artistic beauty & felicitous design." # , & climb-able rocks."  # "I am an **amazing** person."
   location         : "Somewhere"
   email            : "theartofkristina.chan@gmail.com"
   links:
