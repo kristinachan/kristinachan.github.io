@@ -140,9 +140,9 @@ author:
 
 # Header -- added this section 1/22/2025 - KC
 header: 
-  image: /content/images/header/colorodo_girlstrip_carsidemirror_selfpic_20231011.jpg
-  image_description: "colorado girls trip 2023"
-  caption: "Photo credit: Kris Tina with Ren's camera"
+  image: /assets/images/header/header_frogleaf.jpg
+  image_description: "a little splash of nature"
+  # caption: "Photo credit: "
 
 
 # Site Footer
