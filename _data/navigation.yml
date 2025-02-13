@@ -10,6 +10,10 @@ main:
   - title: "Rock Climbing"
     url: https://www.instagram.com/kristinaclimbs
 
+header:
+  image: /assets/images/header_frogleaf.jpg
+  image_description: "A Splash of Nature"
+
 
 #  - title: "Quick-Start Guide"
 #    url: /docs/quick-start-guide/
